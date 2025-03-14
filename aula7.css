@@ -1,0 +1,47 @@
+header{
+    background-color: rgb(152, 230, 219);
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+}
+header i {
+    color: brown;
+    font-size: 60px;
+
+}
+header h1 {
+color: blue;
+font-size: 60px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.paulo03 ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.paulo03 ul li {
+    list-style: none;
+}
+.paulo03 ul li a {
+    text-decoration: none;
+    color: blueviolet;
+}
+.primeira-section {
+    padding: 160px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+.primeira-section span {
+    font-size: 45px;
+    color: blue;
+}
+.primeira-section img {
+    width: ;
+    height: ;
+}
